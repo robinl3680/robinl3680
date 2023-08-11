@@ -9,9 +9,9 @@
 ##
 ![robinl3680's Streak](https://github-readme-streak-stats.herokuapp.com/?user=robinl3680&theme=vue-dark&hide_border=true)
 ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robinl3680)
 ##
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robinl3680&repo=github-readme-stats)
 
 <!---
 robinl3680/robinl3680 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
