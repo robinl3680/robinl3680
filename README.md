@@ -8,6 +8,8 @@
 ![Robin's GitHub stats](https://github-readme-stats.vercel.app/api?username=robinl3680)
 ##
 ![robinl3680's Streak](https://github-readme-streak-stats.herokuapp.com/?user=robinl3680&theme=vue-dark&hide_border=true)
+##
+![robinl3680's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robinl3680&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!---
 robinl3680/robinl3680 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
